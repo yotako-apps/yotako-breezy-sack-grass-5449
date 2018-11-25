@@ -1,0 +1,984 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .iphone6781row0 {
+    display: flex;
+    margin-left: 165px;
+    margin-top: 4px;
+    width: 200px;
+    height: 14px
+  }
+  .style5 {
+    color: #fff;
+    font-family: sfprotext,serif;
+    font-size: .6875em;
+    font-weight: 600;
+    margin-left: 0;
+    height: 100%
+  }
+  .style4 {
+    background-color: #fff;
+    margin-left: 87px;
+    width: 0;
+    height: 0
+  }
+  .style3 {
+    color: #fff;
+    font-family: sfprotext,serif;
+    font-size: .6875em;
+    margin-left: 142px;
+    height: 100%
+  }
+  .style0 {
+    background-color: #d8d8d8;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    opacity: .4699999988079071;
+    display: flex;
+    margin-left: 3px;
+    width: 0;
+    height: 0;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style1,
+  .style2 {
+    background-color: #fff
+  }
+  .style1 {
+    opacity: .5799999833106995;
+    height: 0
+  }
+  .style2 {
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+    margin-left: 180px;
+    width: 20px;
+    height: 100%
+  }
+  .style8 {
+    color: #fff;
+    font-family: shreedevanagari,serif;
+    font-size: 1.6875em;
+    font-weight: 700;
+    margin-left: 47px;
+    margin-top: 42px;
+    height: 41px
+  }
+  .style9 {
+    background-color: #fff;
+    border-left: 4px solid #b51c1c;
+    border-right: 4px solid #b51c1c;
+    border-top: 4px solid #b51c1c;
+    border-bottom: 4px solid #b51c1c;
+    display: flex;
+    margin-left: 49px;
+    margin-top: 38px;
+    width: 281px;
+    height: 72px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style10 {
+    color: #fff;
+    font-family: 'PT Mono',serif;
+    font-size: 2.5625em;
+    height: 51px
+  }
+  .iphone6781row3,
+  .style13 {
+    position: relative;
+    display: flex;
+    align-items: stretch
+  }
+  .iphone6781row3 {
+    margin-top: 142px;
+    height: 67px;
+    margin-left: 16px;
+    width: 344px
+  }
+  .style13 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj20z4.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    width: 67px;
+    flex-direction: column
+  }
+  .style11,
+  .style12 {
+    border-top-left-radius: 31px;
+    border-top-right-radius: 31px;
+    border-bottom-left-radius: 31px;
+    border-bottom-right-radius: 31px
+  }
+  .style11 {
+    background-color: rgba(255,255,255,.9568627450980393);
+    height: 60px
+  }
+  .style12 {
+    background-color: #fff;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    display: flex;
+    margin-left: 217px;
+    width: 60px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style14 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj21gc.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    height: 55px
+  }
+  .style21 {
+    color: #fff;
+    font-family: shreedevanagari,serif;
+    font-size: 1.6875em;
+    font-weight: 700;
+    margin-left: 47px;
+    margin-top: 40px;
+    height: 30px
+  }
+  .iphone6781row5 {
+    display: flex;
+    margin-left: 42px;
+    margin-top: 38px;
+    width: 291px;
+    height: 110px;
+    align-items: stretch
+  }
+  .style19 {
+    background-color: #d1c420;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    display: flex;
+    margin-left: 0;
+    width: 110px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style20 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj237e.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    width: 91px;
+    height: 61px
+  }
+  .style15 {
+    background-color: #d1c420;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    display: flex;
+    margin-left: 71px;
+    width: 110px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style16 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj21to.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    width: 96px;
+    height: 78px
+  }
+  .style17 {
+    background-color: #d1c420;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    display: flex;
+    margin-left: 128px;
+    margin-top: 20px;
+    width: 110px;
+    height: 110px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style18 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj22lv.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    width: 64px;
+    height: 82px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .iphone6781row0 {
+    display: flex;
+    margin-left: 338px;
+    margin-top: 8px;
+    width: 410px;
+    height: 29px
+  }
+  .style5 {
+    color: #fff;
+    font-family: sfprotext,serif;
+    font-size: 1.408em;
+    font-weight: 600;
+    margin-left: 0;
+    height: 100%
+  }
+  .style4 {
+    background-color: #fff;
+    margin-left: 178px;
+    width: 0;
+    height: 0
+  }
+  .style3 {
+    color: #fff;
+    font-family: sfprotext,serif;
+    font-size: 1.408em;
+    margin-left: 291px;
+    height: 100%
+  }
+  .style0 {
+    background-color: #d8d8d8;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    opacity: .4699999988079071;
+    display: flex;
+    margin-left: 6px;
+    width: 0;
+    height: 0;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style1,
+  .style2 {
+    background-color: #fff
+  }
+  .style1 {
+    opacity: .5799999833106995;
+    height: 0
+  }
+  .style2 {
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+    margin-left: 369px;
+    width: 41px;
+    height: 100%
+  }
+  .style8 {
+    color: #fff;
+    font-family: shreedevanagari,serif;
+    font-size: 3.456em;
+    font-weight: 700;
+    margin-left: 96px;
+    margin-top: 86px;
+    height: 84px
+  }
+  .style9 {
+    background-color: #fff;
+    border-left: 4px solid #b51c1c;
+    border-right: 4px solid #b51c1c;
+    border-top: 4px solid #b51c1c;
+    border-bottom: 4px solid #b51c1c;
+    display: flex;
+    margin-left: 100px;
+    margin-top: 78px;
+    width: 575px;
+    height: 147px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style10 {
+    color: #fff;
+    font-family: 'PT Mono',serif;
+    font-size: 5.248em;
+    height: 104px
+  }
+  .iphone6781row3,
+  .style13 {
+    position: relative;
+    display: flex;
+    align-items: stretch
+  }
+  .iphone6781row3 {
+    margin-top: 291px;
+    height: 137px;
+    margin-left: 33px;
+    width: 705px
+  }
+  .style13 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj20z4.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    width: 137px;
+    flex-direction: column
+  }
+  .style11,
+  .style12 {
+    border-top-left-radius: 31px;
+    border-top-right-radius: 31px;
+    border-bottom-left-radius: 31px;
+    border-bottom-right-radius: 31px
+  }
+  .style11 {
+    background-color: rgba(255,255,255,.9568627450980393);
+    height: 123px
+  }
+  .style12 {
+    background-color: #fff;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    display: flex;
+    margin-left: 444px;
+    width: 123px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style14 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj21gc.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    height: 113px
+  }
+  .style21 {
+    color: #fff;
+    font-family: shreedevanagari,serif;
+    font-size: 3.456em;
+    font-weight: 700;
+    margin-left: 96px;
+    margin-top: 82px;
+    height: 61px
+  }
+  .iphone6781row5 {
+    display: flex;
+    margin-left: 86px;
+    margin-top: 78px;
+    width: 596px;
+    height: 225px;
+    align-items: stretch
+  }
+  .style19 {
+    background-color: #d1c420;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    display: flex;
+    margin-left: 0;
+    width: 225px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style20 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj237e.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    width: 186px;
+    height: 125px
+  }
+  .style15 {
+    background-color: #d1c420;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    display: flex;
+    margin-left: 145px;
+    width: 225px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style16 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj21to.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    width: 197px;
+    height: 160px
+  }
+  .style17 {
+    background-color: #d1c420;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    display: flex;
+    margin-left: 262px;
+    margin-top: 41px;
+    width: 225px;
+    height: 225px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style18 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj22lv.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    width: 131px;
+    height: 168px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .iphone6781row0 {
+    display: flex;
+    margin-left: 405px;
+    margin-top: 10px;
+    width: 491px;
+    height: 34px
+  }
+  .style5 {
+    color: #fff;
+    font-family: sfprotext,serif;
+    font-size: 1.6866666666666665em;
+    font-weight: 600;
+    margin-left: 0;
+    height: 100%
+  }
+  .style4 {
+    background-color: #fff;
+    margin-left: 213px;
+    width: 0;
+    height: 0
+  }
+  .style3 {
+    color: #fff;
+    font-family: sfprotext,serif;
+    font-size: 1.6866666666666665em;
+    margin-left: 348px;
+    height: 100%
+  }
+  .style0 {
+    background-color: #d8d8d8;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    opacity: .4699999988079071;
+    display: flex;
+    margin-left: 7px;
+    width: 0;
+    height: 0;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style1,
+  .style2 {
+    background-color: #fff
+  }
+  .style1 {
+    opacity: .5799999833106995;
+    height: 0
+  }
+  .style2 {
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+    margin-left: 442px;
+    width: 49px;
+    height: 100%
+  }
+  .style8 {
+    color: #fff;
+    font-family: shreedevanagari,serif;
+    font-size: 4.14em;
+    font-weight: 700;
+    margin-left: 115px;
+    margin-top: 103px;
+    height: 101px
+  }
+  .style9 {
+    background-color: #fff;
+    border-left: 4px solid #b51c1c;
+    border-right: 4px solid #b51c1c;
+    border-top: 4px solid #b51c1c;
+    border-bottom: 4px solid #b51c1c;
+    display: flex;
+    margin-left: 120px;
+    margin-top: 93px;
+    width: 689px;
+    height: 177px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style10 {
+    color: #fff;
+    font-family: 'PT Mono',serif;
+    font-size: 6.286666666666666em;
+    height: 125px
+  }
+  .iphone6781row3,
+  .style13 {
+    position: relative;
+    display: flex;
+    align-items: stretch
+  }
+  .iphone6781row3 {
+    margin-top: 348px;
+    height: 164px;
+    margin-left: 39px;
+    width: 844px
+  }
+  .style13 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj20z4.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    width: 164px;
+    flex-direction: column
+  }
+  .style11,
+  .style12 {
+    border-top-left-radius: 31px;
+    border-top-right-radius: 31px;
+    border-bottom-left-radius: 31px;
+    border-bottom-right-radius: 31px
+  }
+  .style11 {
+    background-color: rgba(255,255,255,.9568627450980393);
+    height: 147px
+  }
+  .style12 {
+    background-color: #fff;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    display: flex;
+    margin-left: 532px;
+    width: 147px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style14 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj21gc.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    height: 135px
+  }
+  .style21 {
+    color: #fff;
+    font-family: shreedevanagari,serif;
+    font-size: 4.14em;
+    font-weight: 700;
+    margin-left: 115px;
+    margin-top: 98px;
+    height: 74px
+  }
+  .iphone6781row5 {
+    display: flex;
+    margin-left: 103px;
+    margin-top: 93px;
+    width: 714px;
+    height: 270px;
+    align-items: stretch
+  }
+  .style19 {
+    background-color: #d1c420;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    display: flex;
+    margin-left: 0;
+    width: 270px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style20 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj237e.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    width: 223px;
+    height: 150px
+  }
+  .style15 {
+    background-color: #d1c420;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    display: flex;
+    margin-left: 174px;
+    width: 270px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style16 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj21to.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    width: 236px;
+    height: 191px
+  }
+  .style17 {
+    background-color: #d1c420;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    display: flex;
+    margin-left: 314px;
+    margin-top: 49px;
+    width: 270px;
+    height: 270px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style18 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj22lv.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    width: 157px;
+    height: 201px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .iphone6781row0 {
+    display: flex;
+    margin-left: 528px;
+    margin-top: 13px;
+    width: 640px;
+    height: 45px
+  }
+  .style5 {
+    color: #fff;
+    font-family: sfprotext,serif;
+    font-size: 2.2em;
+    font-weight: 600;
+    margin-left: 0;
+    height: 100%
+  }
+  .style4 {
+    background-color: #fff;
+    margin-left: 278px;
+    width: 0;
+    height: 0
+  }
+  .style3 {
+    color: #fff;
+    font-family: sfprotext,serif;
+    font-size: 2.2em;
+    margin-left: 454px;
+    height: 100%
+  }
+  .style0 {
+    background-color: #d8d8d8;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    opacity: .4699999988079071;
+    display: flex;
+    margin-left: 10px;
+    width: 0;
+    height: 0;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style1,
+  .style2 {
+    background-color: #fff
+  }
+  .style1 {
+    opacity: .5799999833106995;
+    height: 0
+  }
+  .style2 {
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+    margin-left: 576px;
+    width: 64px;
+    height: 100%
+  }
+  .style8 {
+    color: #fff;
+    font-family: shreedevanagari,serif;
+    font-size: 5.4em;
+    font-weight: 700;
+    margin-left: 150px;
+    margin-top: 134px;
+    height: 131px
+  }
+  .style9 {
+    background-color: #fff;
+    border-left: 4px solid #b51c1c;
+    border-right: 4px solid #b51c1c;
+    border-top: 4px solid #b51c1c;
+    border-bottom: 4px solid #b51c1c;
+    display: flex;
+    margin-left: 157px;
+    margin-top: 122px;
+    width: 899px;
+    height: 230px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style10 {
+    color: #fff;
+    font-family: 'PT Mono',serif;
+    font-size: 8.200000000000001em;
+    height: 163px
+  }
+  .iphone6781row3,
+  .style13 {
+    position: relative;
+    display: flex;
+    align-items: stretch
+  }
+  .iphone6781row3 {
+    margin-top: 454px;
+    height: 214px;
+    margin-left: 51px;
+    width: 1101px
+  }
+  .style13 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj20z4.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    width: 214px;
+    flex-direction: column
+  }
+  .style11,
+  .style12 {
+    border-top-left-radius: 31px;
+    border-top-right-radius: 31px;
+    border-bottom-left-radius: 31px;
+    border-bottom-right-radius: 31px
+  }
+  .style11 {
+    background-color: rgba(255,255,255,.9568627450980393);
+    height: 192px
+  }
+  .style12 {
+    background-color: #fff;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    display: flex;
+    margin-left: 694px;
+    width: 192px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style14 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj21gc.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    height: 176px
+  }
+  .style21 {
+    color: #fff;
+    font-family: shreedevanagari,serif;
+    font-size: 5.4em;
+    font-weight: 700;
+    margin-left: 150px;
+    margin-top: 128px;
+    height: 96px
+  }
+  .iphone6781row5 {
+    display: flex;
+    margin-left: 134px;
+    margin-top: 122px;
+    width: 931px;
+    height: 352px;
+    align-items: stretch
+  }
+  .style19 {
+    background-color: #d1c420;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    display: flex;
+    margin-left: 0;
+    width: 352px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style20 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj237e.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    width: 291px;
+    height: 195px
+  }
+  .style15 {
+    background-color: #d1c420;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    display: flex;
+    margin-left: 227px;
+    width: 352px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style16 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj21to.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    width: 307px;
+    height: 250px
+  }
+  .style17 {
+    background-color: #d1c420;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    display: flex;
+    margin-left: 410px;
+    margin-top: 64px;
+    width: 352px;
+    height: 352px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style18 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrrcjowj22lv.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    width: 205px;
+    height: 262px
+  }
+}
